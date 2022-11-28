@@ -1,4 +1,9 @@
-# Universidad Nacional de Hurlingham
+<div align="center">
+<div><img src="img/logo.png" width="50"/></div>
+<div><h1>Universidad Nacional de Hurlingham</h1></div>
+</div>
+
+---
 
 ## Concurso Docente Nro 59/22
 
