@@ -9,6 +9,8 @@
 | MECON - DGSIAF | Líder de Proyectos de Testing Automático | 2021 |
 | AFIP SDG SIT | Especialista en automatización de pruebas | |
 
+---
+
 ## Cargos en Docencia
 
 | **Cargo** | **Institución** | **F. Inicio** | **F. Fin** | **Materias** |
@@ -21,3 +23,20 @@
 | Profesor Asociado | UNO | 03/2014 | | <ul><li>**Programación con Objetos I**</li><li>**Lenguajes Formales**</li></ul> |
 | Profesor Asociado | UADE | 08/2017 | | <ul><li>**Teoría de la Computación**</li><li>Base de Datos I</li><li>Programación 3</li></ul> |
 | Profesor Adjunto | UNAHUR | 03/2021 | | <ul><li>**Lógica y Programación**</li><li>**Lenguajes Formales y Autómatas**</li><li>**Características de Lenguajes Programación**</li><li>**Parseo y generación de código**</li></ul> |
+
+---
+
+## Otros
+
+* Miembro Comisión de Carrera de Tecnicatura y Licenciatura en Informática (desde 2021)
+* Miembro Comisión de Tesis UB y UADE (desde 2020)
+* Categoria docente investigador: Categoría IV (desde 2019)
+
+## Investigaciones
+
+* Desde 2017, investigo y dirijo proyectos de inestigación sobre temas de Accesibilidad Web:
+  * Desarrollo de herramientas,
+  * Estudio y comparativa de herramientas,
+  * Evaluaciones,
+  * Cursos.
+* Tutor y jurado de tesinas de grado y tesis de posgrado.
