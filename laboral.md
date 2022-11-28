@@ -38,5 +38,7 @@
   * Desarrollo de herramientas,
   * Estudio y comparativa de herramientas,
   * Evaluaciones,
-  * Seminarios.
+  * Seminarios,
+  * Publicación de artículos en Congresos: CONAIISI, CACIC, CICCSI, WICC
 * Tutor y jurado de tesinas de grado y tesis de posgrado.
+* En UNAHUR, tutor de Joaquin Pettinari (etapa inicial)
