@@ -1,11 +1,15 @@
 # Estrategia didáctica para el dictado de Lenguajes Formales y Autómatas
 
-* Estudiantes presentan dificultad para asimilar ciertos contenidos ya que los mismos están muy cercanos a la matemática y son fuertemente abstractos.
-* Resulta necesario contar contar con una estrategia didáctica que permita
-  * aportar sólidas bases teóricas
+## Introducción
+
+* Estudiantes presentan **dificultad para asimilar ciertos contenidos** ya que los mismos están muy cercanos a la **matemática y son fuertemente abstractos**.
+* Resulta necesario contar con una estrategia didáctica que permita:
+  * aportar sólidas bases teóricas y
   * disponer de claros ejemplos de aplicación a la resolución de problemas reales.
 
-* Para poder asimilar en forma completa los contenidos de la materia, considero que se deben realizar prácticas efectivas de los mismos utilizando simuladores de máquinas abstractas, estudiando su funcionamiento y los algoritmos de las herramientas, permitiendo modificaciones q  ue agreguen nuevas funcionalidades y para optimizar su funcionamiento.
+## Desarrollo
+
+* Para poder asimilar en forma completa los contenidos de la materia, considero que se deben realizar prácticas efectivas de los mismos, utilizando **simuladores de máquinas abstractas**, estudiando su funcionamiento y los algoritmos de las herramientas, permitiendo modificaciones q  ue agreguen nuevas funcionalidades y para optimizar su funcionamiento.
   * [JFlap (Universidad Duke, EEUU)](https://www.jflap.org) incorporado a la materia desde 2021
   * [Minerva (UNICEN, Argentina)](https://users.exa.unicen.edu.ar/catedras/ccomp1/Minerva.htm) a incorporar a la materia en 2023
 
