@@ -5,7 +5,7 @@
 
 ---
 
-## Concurso Docente Nro 59/22
+<div align="center"><h2>Concurso Docente Nro 59/22</h2></div>
 
 ---
 
