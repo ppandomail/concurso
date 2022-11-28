@@ -22,12 +22,12 @@
 
 1. **Presentación de la materia** (Fundamentación + Programa + Cronograma)
 
----
+    ---
 
 1. **Bibliografía**
     ![Libro](img/libro.jpg)
 
----
+    ---
 
 1. **Campus:**
     ![Campus](img/campus.png)
@@ -36,12 +36,14 @@
     * **Encuadre general**: Se realiza una presentación de la asignatura, se anticipan las formas de acreditación. En este solapa se comparte el programa y una presentación gráfica de la materia.
     * **Cada unidad del aula virtual está compuesta por clases**. Cada una de éstas consta de los siguientes componentes: introducción a la unidad, video donde se exponen los temas de cada clase, recursos para el aprendizaje (infografía), actividades, pizarras de clase, y espacio de tutoría.
 
----
+    ---
 
 1. Software JFlap, para experimentar con los temas de la materia.
     [JFLAP](https://www.jflap.org)
 
----
+    ![JFlap](img/jflap.png)
+
+    ---
 
 1. Metodología de enseñanza:
     * **Teoría**: se presentan los contenidos teóricos con ejemplos.
@@ -49,13 +51,10 @@
     * **Actividades Prácticas**: resolución de problemas.
     * **Simulacro de parcial**: clase previa a cada evaluación.
 
----
+    ---
 
 1. Evaluación:
     * Dos parciales teóricos - prácticos, donde tienen que diseñar gramáticas y máquinas, analizar funcionamiento de las máquinas, etc.
+    * Recuperatorios de ambos parciales.
 
----
-
-1. Propuestas: 
-
-
+    ---
