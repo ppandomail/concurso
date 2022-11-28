@@ -2,21 +2,21 @@
 
 * Instituto: Tecnología e Ingeniería
 * Carrera: Licenciatura en Informática
-* Año: 4
+* Año: 4to.
 * Cuatrimestre: 2do.
-* Carga horara semanal: 4 horas
+* Carga horaria semanal: 4 horas
 
 ## Fundamentación
 
-* Fundamentos teóricos formales para el entendimiento de los compiladores y lenguajes de programación (tareas de reconocimiento de los elementos del lenguaje y su análisis sintáctico)
+* Fundamentos teóricos formales para el entendimiento de los compiladores, intérpretes y lenguajes de programación (tareas de reconocimiento de los elementos del lenguaje y su análisis sintáctico)
 
 ## Programa
 
-1. Lenguajes formales (L, w, ó, Σ)
-1. Gramáticas formales (GR, GIC, GDC, GI y Formas Normales: FNC, FNG y FNB)
+1. Lenguajes Formales (L, w, ó, Σ)
+1. Gramáticas Formales (GR, GIC, GDC, GI y Formas Normales: FNC, FNG y FNB)
 1. Lenguajes Regulares (ER, AFD, AFN, Algoritmos. Lema de Bombeo)
 1. Lenguajes Independientes de Contexto (GIC, AP)
-1. Máquina de Turing (Unicinta, multicinta y MTND)
+1. Máquina de Turing (MT unicinta, multicinta y MTND)
 
 ## Primera clase
 
@@ -34,7 +34,7 @@
     * La materia se ofreció a intercambio internacionales, estuve trabajando con el Equipo de Tecnología Educativa (Tamara Olmedo y Julieta Sprejer en junio/julio 2022) para virtualizar la materia.
     * Diseño del campus: dividido por unidades.
     * **Encuadre general**: Se realiza una presentación de la asignatura, se anticipan las formas de acreditación. En este solapa se comparte el programa y una presentación gráfica de la materia.
-    * **Cada unidad del aula virtual está compuesta por clases**. Cada una de éstas consta de los siguientes componentes: introducción a la unidad, video donde se exponen los temas de cada clase, recursos para el aprendizaje (infografía), actividades, pizarras de clase, y espacio de tutoría.
+    * **Cada unidad del aula virtual está compuesta por clases**. Cada una de éstas consta de los siguientes componentes: introducción a la unidad, video donde se exponen los temas de cada clase, recursos para el aprendizaje (infografías), actividades, pizarras de clase, y espacio de tutoría.
 
     ---
 

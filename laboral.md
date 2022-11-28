@@ -5,7 +5,7 @@
 | **Repartición** | **Cargo** | **Año Fin** |
 | -- | -- | -- |
 | MECON - ESIDIF | Ingeniero de Pruebas de Software | 2011 |
-| INVAP S.E. - AEROESP| Desarrollador de Tests Automáticos | 2012 |
+| INVAP S.E. - AEROESPACIAL | Desarrollador de Tests Automáticos | 2012 |
 | MECON - DGSIAF | Líder de Proyectos de Testing Automático | 2021 |
 | AFIP SDG SIT | Especialista en automatización de pruebas | |
 
@@ -28,7 +28,7 @@
 
 ## Otros
 
-* Miembro Comisión de Carrera de Tecnicatura y Licenciatura en Informática (desde 2021)
+* Miembro Comisión de Carrera de Tecnicatura y Licenciatura en Informática UNAHUR (desde 2021)
 * Miembro Comisión de Tesis UB (desde 2020)
 * Categoria docente investigador: Categoría IV (desde 2019)
 
@@ -41,4 +41,4 @@
   * Seminarios,
   * Publicación de artículos en Congresos: CONAIISI, CACIC, CICCSI, WICC
 * Tutor y jurado de tesinas de grado y tesis de posgrado.
-* En UNAHUR, tutor de Joaquin Pettinari (etapa inicial)
+* En UNAHUR, tutor de Joaquin Pettinari (etapa inicial de la tesina)

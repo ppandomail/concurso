@@ -5,20 +5,21 @@
 
 ---
 
-<div align="center"><h2>Concurso Docente Nro 59/22</h2></div>
+<div align="center"><h2>Concurso Docente Nro. 59/22</h2></div>
 
 ---
 
 <div align="center">
 <div><img src="img/YO.jpeg" width="50"/></div>
-<div><h3>Pablo Miguel Angel Pandolfo</h3></div>
+<div><h3>Mg. Ing. Pablo Miguel Angel Pandolfo</h3></div>
 </div>
 
 ---
 
+<br>
+
 ### Agenda
 
-<br>
 <br>
 
 * [Formación académica](academica.md)
