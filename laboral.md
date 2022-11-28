@@ -5,7 +5,7 @@
 | **Repartición** | **Cargo** | **Año Fin** |
 | -- | -- | -- |
 | MECON - ESIDIF | Ingeniero de Pruebas de Software | 2011 |
-| INVAP S.E. | Desarrollador de Tests Automáticos | 2012 |
+| INVAP S.E. - AEROESP| Desarrollador de Tests Automáticos | 2012 |
 | MECON - DGSIAF | Líder de Proyectos de Testing Automático | 2021 |
 | AFIP SDG SIT | Especialista en automatización de pruebas | |
 
@@ -29,7 +29,7 @@
 ## Otros
 
 * Miembro Comisión de Carrera de Tecnicatura y Licenciatura en Informática (desde 2021)
-* Miembro Comisión de Tesis UB y UADE (desde 2020)
+* Miembro Comisión de Tesis UB (desde 2020)
 * Categoria docente investigador: Categoría IV (desde 2019)
 
 ## Investigaciones
